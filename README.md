@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QianpengLi577
-- 👀 I’m interested in bioinformation and the theory of machine learning
+- 👀 I’m interested in RISC-V
 - 📫 If you have any question or want to cooperate with me,please send me an email via qianpengli577@gmail.com 
 
 <!---
