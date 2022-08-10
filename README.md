@@ -13,3 +13,5 @@
   <img align="center" alt="Top Langs"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=QianpengLi577&layout=compact&count_private=true" />
 </a>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QianpengLi577&theme=monokai&count_private=true&include_all_commits=true)
