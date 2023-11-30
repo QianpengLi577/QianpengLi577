@@ -1,7 +1,7 @@
 # Hi there!
 
-- I am Qianpeng Li(李千鹏)，a master of Institute of Automation，Chinese Academy of Sciences.
-- I am interested in neuromorphic chip and spiking neural network algorithm.
+- I am Qianpeng Li(李千鹏), a master of the Institute of Automation, Chinese Academy of Sciences.
+- I am interested in Neuromorphic Chip , AI compiler, and Spiking Neural Network algorithms.
 - My email address is qianpengli577@gmail.com, glad to communicate with you
 
 
